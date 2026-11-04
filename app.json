@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "خسته",
+    "slug": "khaste",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#17120D",
+    "android": { "package": "com.khaste.app" },
+    "ios": { "bundleIdentifier": "com.khaste.app" }
+  }
+}
